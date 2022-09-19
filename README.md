@@ -20,6 +20,7 @@ This file teaches you to create an Express Server.
 
 1. Go to index.js again and have a look at the configuration for routes section
  > Install nodemon for hot-reloading
+ >> npm i -D nodemon --> -D only for developers not in production
 
 ## Pre-requesties
 
