@@ -1,4 +1,4 @@
-# EXPRESS js
+# EXPRESS JS
 
 This file teaches you to create an Express Server.
 
